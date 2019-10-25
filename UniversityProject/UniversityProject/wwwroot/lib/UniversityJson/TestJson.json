@@ -1,0 +1,53 @@
+
+  {
+    "UniversityId": 1,
+    "UniversityName": "ACE",
+    "Colleges": [
+      {
+        "CollegeId": 1,
+        "CollegeName": "Calculatoare Engleza",
+        "Description": "Computers and stuff",
+        "Criterias": [
+          {
+            "CriteriaId": 1,
+            "CriteriaName": "Bac",
+            "GradeWeight": 60.0,
+            "CollegeId": 1
+          },
+          {
+            "CriteriaId": 2,
+            "CriteriaName": "Liceu",
+            "GradeWeight": 40.0,
+            "CollegeId": 1
+          }
+        ],
+        "Students": null
+      }
+
+
+
+    ]
+  }
+
+/*
+      "students": [
+        {
+          "cnp": 198012560214,
+          "firstName": "Samuel",
+          "lastName": "Jackson",
+          "age": 46,
+          "grades": [
+            {
+              "averageGrade": 0.0,
+              "criteriaId": 1,
+              "gradeId": 1,
+              "studentId": 198012560214
+            }
+          ],
+          "colleges": [
+            {
+
+            }
+          ]
+        }
+      ]*/

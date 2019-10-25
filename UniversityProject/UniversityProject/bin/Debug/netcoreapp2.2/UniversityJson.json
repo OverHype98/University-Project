@@ -1,0 +1,76 @@
+[
+  {
+    
+    "UniversityName": "ACE",
+    "Colleges": [
+      {
+
+        "CollegeName": "Calculatoare Engleza",
+        "Description": "Computers and stuff",
+        "NumberOfPlaces": 3,
+        "CollegeCriterias": [
+          {
+
+            "Criteria": {
+              "CriteriaName": "Bac"
+            },
+            "GradeWeight": 60.0
+
+          },
+          {
+
+            "Criteria": {
+              "CriteriaName": "Liceu"
+            },
+            "GradeWeight": 40.0
+
+          }
+        ]
+
+      }
+
+    ]
+  },
+
+  {
+
+  
+    "UniversityName": "Wimbledon",
+    "Colleges": [
+      {
+
+        "CollegeName": "Calculatoare Romana",
+        "Description": "Best college ever 5/7",
+        "NumberOfPlaces": 2,
+        "CollegeCriterias": [
+          {
+
+            "Criteria": {
+              "CriteriaName": "Custom Exam 1",
+              "CriteriaDescription": "Mate"
+            },
+            "GradeWeight": 50.0
+
+
+          },
+          {
+
+            "Criteria": {
+              "CriteriaName": "Admitere"
+
+            },
+
+            "GradeWeight": 50.0
+
+          }
+        ]
+
+
+      }
+
+
+
+    ]
+
+  }
+]
